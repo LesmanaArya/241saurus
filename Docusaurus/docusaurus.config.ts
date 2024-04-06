@@ -4,27 +4,23 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '241saurus',
-  tagline: 'This is the Way!',
+  tagline: 'Bubble Sort is better than Merge Sort, in terms of simplicity :)',
   favicon: 'img/favicon.ico',
-  url: 'https://LesmanaArya.github.io', // Or else
-  baseUrl: '/241saurus/',           // Or else
-  organizationName: 'LesmanaArya',      // (Usually your GitHub org/user name)
-  projectName: '241saurus',         // (Usually your repo name)
-  trailingSlash: true,              // "true" or "false"
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://LesmanaArya.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/241saurus/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'LesmanaArya', // Usually your GitHub org/user name.
+  projectName: '241saurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: true,              // "true" or "false"
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
