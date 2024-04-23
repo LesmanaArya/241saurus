@@ -1,3 +1,21 @@
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+
 LesmanaArya:
   name: Arya Lesmana
   title: Sleepy Prince
@@ -8,7 +26,7 @@ fritszoe:
   name: Fatih Raditya Pratama
   title: Master Chef
   url: https://github.com/fritszoe
-  image_url: https://github.com/yangshun.png
+  image_url: https://github.com/fritszoe.png
 
 fauzanjaisyu:
   name: Muhammad Fauzan Jaisyurrahman
